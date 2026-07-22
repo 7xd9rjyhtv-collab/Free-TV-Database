@@ -21,6 +21,7 @@ body:
       options:
         - 'DMCA'
         - 'NSFW'
+        - 'DRM'
     validations:
       required: true
 
